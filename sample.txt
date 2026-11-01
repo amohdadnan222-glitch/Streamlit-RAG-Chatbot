@@ -1,0 +1,61 @@
+GENERAL ARTIFICIAL INTELLIGENCE KNOWLEDGE
+
+1. What is Artificial Intelligence?
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include understanding language, recognizing images, solving problems, learning from data, and generating content. AI is used in virtual assistants, recommendation systems, healthcare, education, and many other industries.
+
+2. What is Machine Learning?
+
+Machine Learning (ML) is a branch of AI that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every situation. Common applications include spam detection, fraud detection, product recommendations, and weather prediction.
+
+3. What is Deep Learning?
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers to learn complex patterns. It is commonly used in image recognition, speech recognition, language understanding, and generative AI systems.
+
+4. What is Generative AI?
+
+Generative AI refers to AI systems that can create new content, including text, images, audio, video, and computer code. These systems learn patterns from training data and use those patterns to generate new outputs. Large language models and image-generation models are examples of generative AI.
+
+5. What are Large Language Models?
+
+Large Language Models (LLMs) are AI models trained on large amounts of text and other language data. They can understand and generate human-like text, answer questions, summarize documents, translate languages, and assist with coding. LLMs generate responses based on learned patterns and the context provided to them. Their answers may sometimes contain inaccurate information.
+
+6. What is a Chatbot?
+
+A chatbot is a software application designed to communicate with users through text or voice. AI chatbots use language-processing models to interpret user questions and generate responses. They are used in customer support, education, personal assistance, and information retrieval.
+
+7. What is Retrieval-Augmented Generation?
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with a language model. When a user asks a question, the system first retrieves relevant information from a knowledge source. The retrieved information is then included in the prompt so the language model can generate a context-aware answer. RAG can help provide answers based on specific documents and reduce reliance on information stored in the model's parameters.
+
+8. What are Embeddings?
+
+Embeddings are numerical representations of text, images, or other data. Text embeddings represent the meaning and relationships of text as vectors in a mathematical space. Similar pieces of text often have vectors that are close to each other. Embeddings are commonly used for semantic search, document retrieval, recommendation systems, and RAG applications.
+
+9. What is a Vector Database?
+
+A vector database stores and searches vector representations of data. In AI applications, documents can be converted into embeddings and stored in a vector database. When a user submits a question, the system can find documents whose embeddings are semantically similar to the question. ChromaDB is an example of a vector database used in AI applications.
+
+10. What is Semantic Search?
+
+Semantic search attempts to find information based on meaning rather than relying only on exact keyword matches. For example, a search for "How can machines learn from examples?" may retrieve a document discussing Machine Learning even if the document does not contain the exact wording of the question.
+
+11. What is Prompt Engineering?
+
+Prompt engineering is the practice of designing and refining instructions given to an AI model. A good prompt clearly describes the task, provides relevant context, specifies constraints, and explains the expected response format. Clear prompts can help make AI outputs more useful and consistent.
+
+12. What is an AI Hallucination?
+
+An AI hallucination occurs when an AI system generates information that sounds plausible but is false, unsupported, or misleading. Hallucinations can occur because a model generates outputs based on learned patterns rather than automatically verifying every statement against reliable sources. Providing relevant context and checking important claims can help reduce this risk.
+
+13. What is Human-in-the-Loop AI?
+
+Human-in-the-loop AI is an approach in which people participate in reviewing, guiding, correcting, or approving AI system outputs. Human oversight is especially important for high-impact decisions, sensitive information, and tasks that require accuracy or accountability.
+
+14. What is Responsible AI?
+
+Responsible AI involves designing and using AI systems with attention to fairness, privacy, security, transparency, reliability, and accountability. Developers should evaluate systems for potential biases, protect sensitive data, and ensure that people can appropriately oversee AI-generated results.
+
+15. What is the Difference Between AI, Machine Learning, and Deep Learning?
+
+Artificial Intelligence is the broad field of creating systems that perform tasks associated with intelligence. Machine Learning is a subset of AI that learns patterns from data. Deep Learning is a subset of Machine Learning that uses multilayer neural networks to learn complex representations.
